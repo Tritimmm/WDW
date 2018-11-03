@@ -1,0 +1,31 @@
+What is an API:
+-->application program interface
+-->you call to a server to use things in big databases
+
+Full stack:
+    -->front-end
+        -->front-end software
+        -->API
+    -->backend
+        -->server
+        -->database
+
+Dataset: CRUD operation
+-create data
+-read data
+-update data
+-delete data
+
+!------Relational (SQL) and Non-relational (NoSQL)------!
+Relational:
+-Tables: set of all data in a specific category
+    -col: attributes
+    -row: single entry data
+-Tables are connected by keys
+-Common in old software system and big enterprise software: very organized
+
+Non-relational: 
+-Anything that's not relational
+-Graphs (nodes)
+-Document databases: put all the info in a doc and then collect them
+-Flexible data management structure
